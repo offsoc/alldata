@@ -50,7 +50,7 @@
     "moment": "^2.29.1",
     "normalize.css": "7.0.0",
     "nprogress": "0.2.0",
-    "path-to-regexp": "3.3.0",
+    "path-to-regexp": "8.2.0",
     "qs": "^6.10.1",
     "screenfull": "4.2.0",
     "sortablejs": "1.8.4",
